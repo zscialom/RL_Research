@@ -8,7 +8,7 @@ The main code (with the RL set-up) specifically focuses on the data from Microso
 For primary data, please use the following link: 
 http://utstat.utoronto.ca/sjaimung/data/Nov-2014.zip
 
-There are totally 180 samples, with the entire November 2014 data for the following tickers: AMZN, EBAY, FB, GOOG, INTC, MSFT, MU, PCAR, SMH, VOD for every second of the trading day.
+There are totally 180 files including the entire November 2014 data for the following tickers: AMZN, EBAY, FB, GOOG, INTC, MSFT, MU, PCAR, SMH, VOD for every second of the trading day.
 
 Each file contains a structure called LOB where each field has entries corresponding to one
 second of the trading day. The following table describes the structure of each data file:
