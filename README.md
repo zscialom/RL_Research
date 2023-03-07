@@ -1,10 +1,11 @@
 # RL_Research
 Reinforcement Learning approach for optimal execution
 
+
 For primary data, please use the following link: 
 http://utstat.utoronto.ca/sjaimung/data/Nov-2014.zip
 
-There are totally 180 samples, with the entire November (18 trading days from Nov 3 to Nov 26) trading data for 10 stocks. There is no trading data on Nov 27 due to holiday reason, and the exchange closed early at 1pm est on Black Friday Nov 28.
+There are totally 180 samples, with the entire November (18 trading days from Nov 3 to Nov 26) trading data for 10 stocks. There is no trading data on Nov 27 due to holiday reason, and the exchange closed early at 1pm est on Nov 28.
 
 The following table describe the structure of each data file:
 
