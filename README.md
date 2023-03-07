@@ -1,6 +1,9 @@
 # RL_Research
 Reinforcement Learning approach for optimal execution
 
+This repository contains the data and the code related to the paper. Results and figures are also available. Helpful codes are also provided to get some insight on the data and the key processes studied.
+
+The main code (with the RL set-up) specifically focuses on the data from Microsoft on the 3rd of November 2014. It has been extracted from a set of files (provided by the University of Toronto) containing other data about other tickers during the whole month of November 2014.
 
 For primary data, please use the following link: 
 http://utstat.utoronto.ca/sjaimung/data/Nov-2014.zip
